@@ -22,7 +22,7 @@
     "showLogo": true,
     "darkMode": true
   },
-  "configVersion": 30,
+  "configVersion": 38,
   "appName": "GUSTAVO lindo",
   "maintenance": false,
   "forceUpdate": false,
